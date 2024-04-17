@@ -9,6 +9,8 @@ pandas = "*"
 seaborn = "*"
 networkx = "*"
 scipy = "*"
+unidecode = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
