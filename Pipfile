@@ -12,6 +12,7 @@ scipy = "*"
 unidecode = "*"
 scikit-learn = "*"
 nltk = "*"
+spacy = "*"
 
 [dev-packages]
 
