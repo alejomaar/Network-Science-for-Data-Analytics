@@ -13,6 +13,7 @@ unidecode = "*"
 scikit-learn = "*"
 nltk = "*"
 spacy = "*"
+wordcloud = "*"
 
 [dev-packages]
 
