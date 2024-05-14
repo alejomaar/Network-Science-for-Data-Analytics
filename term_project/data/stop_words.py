@@ -123,4 +123,12 @@ STOP_WORDS = [
     "ocurrir",
     "elemento",
     "abrir",
+    "querer",
+    "mayo",
+    "fin",
+    "mostrar",
+    "abril",
+    "cabo",
+    "tratar",
+    "dentro",
 ]
